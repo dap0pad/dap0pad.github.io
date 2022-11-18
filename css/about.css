@@ -1,0 +1,62 @@
+.heading{
+	margin-top: 95px;
+}
+.content h2 {
+	 text-align: center;
+	 color: #02315E;
+}
+.content hr{
+	width: 50%;
+}
+
+.story{
+	margin: auto;
+	width: 75%;
+	text-align: center;
+	background-color: rgba(47, 112, 175, 0.1);
+	padding: auto;
+	border-top: 7px solid #02315E;
+	border-right: 7px solid #02315E;
+}
+
+.story h3{
+	text-align: center;
+	color: #806491;
+	text-shadow: 1px 0 12px #02315E;
+}
+
+.staff{
+	margin-top: 55px;
+}
+
+.staff h3{
+	text-align: center;
+	color: #02315E;
+	text-shadow: 1px 0 12px #02315E;
+	margin-bottom: 35px;
+}
+
+.story p{
+	font-size: 18px;
+	color: #00457E;
+	text-shadow: 1px 0 12px #806491;
+}
+.staff-pic{
+	width: 65%;
+	margin: auto;
+}
+.staff-pic h4{
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	color: #2F70AF;
+	text-shadow: 1px 0 12px #806491;
+}
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+.row {
+  display: flex;
+}

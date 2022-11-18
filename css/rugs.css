@@ -1,0 +1,28 @@
+.heading{
+	margin-top: 95px;
+}
+.content h2 {
+	 text-align: center;
+	 color: #02315E;
+}
+.content hr{
+	width: 50%;
+}
+.pic{
+	width: 75%;
+	margin: auto;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+@media screen and (max-width: 950px) {
+  .row{
+  	display: block;
+  }
+}
